@@ -6,5 +6,4 @@ public interface Capabilities {
     void swim(int length);
     boolean isOnDistance();
     void showResult();
-
 }

@@ -13,7 +13,6 @@ public abstract class Animals implements Capabilities{
         return onDistance;
     }
 
-
     public Animals(String name, int maxRunDistance, int maxSwimLength, int maxJumpHeight) {
         this.name = name;
         this.type = type;
