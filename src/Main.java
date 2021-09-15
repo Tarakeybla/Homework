@@ -2,6 +2,7 @@ import members.*;
 import obstacles.Obstacle;
 import obstacles.*;
 
+
 public class Main {
         public static void main(String[] args) {
 
