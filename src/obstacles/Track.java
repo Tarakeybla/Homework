@@ -13,4 +13,5 @@ public class Track extends Obstacle {
     public void doIt(Capabilities competitor) {
         competitor.run(distance);
     }
+    
 }
