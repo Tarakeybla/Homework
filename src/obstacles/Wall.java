@@ -13,4 +13,5 @@ public class Wall extends Obstacle{
     public void doIt(Capabilities competitor) {
         competitor.jump(height);
     }
+    
 }
